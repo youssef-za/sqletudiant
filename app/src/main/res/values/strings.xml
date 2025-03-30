@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sqltp</string>
+    <string name="student_id">ID: %1$d</string>
+    <string name="student_name">%1$s %2$s</string> <!-- For combined name -->
+    <string name="student_birth_date">Birth: %1$s</string>
+    <string name="default_photo_description">Student photo</string>
+    <string name="le_nom_de_l_tudiant">le nom de l\'étudiant</string>
+    <string name="liste_des_etudiants">Etudiants</string>
+    <string name="gestion_des_etudiants">GESTION DES ETUDIANTS</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="date_de_naissance">Date de Naissance :</string>
+    <string name="photo_de_profil">Photo de profil :</string>
+    <string name="s_lectionner_une_photo">Sélectionner une photo</string>
+    <string name="prendre_une_photo">Prendre une photo</string>
+    <string name="id_etudiant">ID Etudiant :</string>
+    <string name="id">Id</string>
+    <string name="valider">Valider</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="chercher">Chercher</string>
+    <string name="lister">Lister</string>
+    <string name="nom_de_l_etudiant">Nom de L\'Etudiant</string>
+    <string name="photo">Photo</string>
+</resources>
